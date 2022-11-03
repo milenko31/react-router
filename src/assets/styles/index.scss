@@ -1,2 +1,5 @@
 @use 'variables.scss';
 @use 'homePage.scss';
+@use './src/components/Header/Header.module.scss';
+@use './src/components/Footer/Footer.module.scss';
+@use 'color.scss';
